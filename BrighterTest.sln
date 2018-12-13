@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrighterTest", "BrighterTest\BrighterTest.csproj", "{2E66DC3C-9D2E-4D3B-ACC4-D5C07A134B83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrighterTestDb", "BrighterTestDb\BrighterTestDb.csproj", "{117D8FD3-4F5D-484F-BD67-18495F9E9EF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E66DC3C-9D2E-4D3B-ACC4-D5C07A134B83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E66DC3C-9D2E-4D3B-ACC4-D5C07A134B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E66DC3C-9D2E-4D3B-ACC4-D5C07A134B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E66DC3C-9D2E-4D3B-ACC4-D5C07A134B83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{117D8FD3-4F5D-484F-BD67-18495F9E9EF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{117D8FD3-4F5D-484F-BD67-18495F9E9EF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{117D8FD3-4F5D-484F-BD67-18495F9E9EF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{117D8FD3-4F5D-484F-BD67-18495F9E9EF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
